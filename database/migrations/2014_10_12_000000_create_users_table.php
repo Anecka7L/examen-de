@@ -23,6 +23,7 @@ return new class extends Migration
         });
     }
 // создание заявки
+// изменения
     /**
      * Reverse the migrations.
      */
